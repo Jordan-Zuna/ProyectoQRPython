@@ -8,7 +8,8 @@
     -  Eliminar el pedido hecho.
 
 Esta aplicacion mediante sus opciones permite que el cliente pueda realizar sus compras de manera sencilla.
-    # Para la descarga:
+    
+  # Para la descarga:
   - Ingrese a la pestaña "RegistroDePedidos.exe" para descargar el archivo ejecutable.
       - Dar click en "View raw" o en el ícono de descarga en la parte derecha para obtener la aplicación.
       - Dar doble click en el archivo descargado y ejecute.
