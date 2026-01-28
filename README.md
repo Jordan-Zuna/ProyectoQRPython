@@ -1,10 +1,12 @@
 # Aplicación para Registro de Pedidos 
   - App de escritorio para el registro de pedidos de paquetes ofimáticos a contratar.
+
     Se tiene opciones de:
     - Registro del pedido.
     - Mostrar el registro hecho.
     - Generar un código QR para el pago digital.
     -  Eliminar el pedido hecho.
+
 Esta aplicacion mediante sus opciones permite que el cliente pueda realizar sus compras de manera sencilla.
     # Para la descarga:
   - Ingrese a la pestaña "RegistroDePedidos.exe" para descargar el archivo ejecutable.
